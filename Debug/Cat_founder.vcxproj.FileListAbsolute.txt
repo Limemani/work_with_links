@@ -1,0 +1,2 @@
+C:\Projects\Cat_founder\Debug\Cat_founder.exe
+C:\Projects\Cat_founder\Debug\Cat_founder.pdb
